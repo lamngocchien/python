@@ -13,3 +13,5 @@ toy2 = Toy(**toy1.__dict__)
 print (toy2)
 print(toy2.name)
 print(toy2.age)
+
+
